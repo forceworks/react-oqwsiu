@@ -113,9 +113,9 @@ const App = () => {
           colorField: 'color'
         }]}>
                <DayView 
-                startTime={"09:00"}
+                startTime={"08:00"}
                 endTime={"16:00"}
-                workDayStart={"09:00"}
+                workDayStart={"08:00"}
                 workDayEnd={"16:00"}
               />
               <WeekView />
